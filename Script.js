@@ -1,3 +1,5 @@
+
+// Script for fade in effects on the gallery
 window.addEventListener('scroll', function() {
     var fadeElems = document.querySelectorAll('.fade');
     for (var i = 0; i < fadeElems.length; i++) {
